@@ -34,15 +34,15 @@
   SlotData.c
   TransformConstraint.c
   TransformConstraintData.c
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbinary.c(310): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
   Triangulator.c
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbinary.c(310): warning C4018: '<': signed と unsigned の数値を比較しようとしました。 (ソース ファイルをコンパイルしています ..\SkeletonBinary.c)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbinary.c(372): warning C4018: '<': signed と unsigned の数値を比較しようとしました。 (ソース ファイルをコンパイルしています ..\SkeletonBinary.c)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbinary.c(484): warning C4018: '<': signed と unsigned の数値を比較しようとしました。 (ソース ファイルをコンパイルしています ..\SkeletonBinary.c)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbinary.c(649): warning C4018: '<': signed と unsigned の数値を比較しようとしました。 (ソース ファイルをコンパイルしています ..\SkeletonBinary.c)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbinary.c(652): warning C4018: '<': signed と unsigned の数値を比較しようとしました。 (ソース ファイルをコンパイルしています ..\SkeletonBinary.c)
   VertexAttachment.c
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbinary.c(372): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonjson.c(97): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。 (ソース ファイルをコンパイルしています ..\SkeletonJson.c)
   VertexEffect.c
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbinary.c(484): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbinary.c(649): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbinary.c(652): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonjson.c(97): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
   AttachmentVertices.cpp
   Cocos2dAttachmentLoader.cpp
   SkeletonAnimation.cpp
@@ -50,21 +50,21 @@ d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spin
   SkeletonRenderer.cpp
   SkeletonTwoColorBatch.cpp
   spine-cocos2dx.cpp
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonRenderer.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Cocos2dAttachmentLoader.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\AttachmentVertices.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonAnimation.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonTwoColorBatch.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonBatch.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\spine-cocos2dx.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonRenderer.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Cocos2dAttachmentLoader.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonTwoColorBatch.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonAnimation.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\AttachmentVertices.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonBatch.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\spine-cocos2dx.cpp)
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletontwocolorbatch.cpp(237): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletontwocolorbatch.cpp(274): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
-d:\android\test\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbatch.cpp(110): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
-  libSpine.vcxproj -> D:\Android\test\TestProj\3DAirHockey\AirHockey\proj.win32\Debug.win32\libSpine.lib
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Cocos2dAttachmentLoader.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonBatch.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\spine-cocos2dx.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonAnimation.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonTwoColorBatch.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonRenderer.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\AttachmentVertices.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Cocos2dAttachmentLoader.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\spine-cocos2dx.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonBatch.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonAnimation.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonTwoColorBatch.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\AttachmentVertices.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonRenderer.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletonbatch.cpp(110): warning C4018: '<': signed と unsigned の数値を比較しようとしました。 (ソース ファイルをコンパイルしています ..\SkeletonBatch.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletontwocolorbatch.cpp(237): warning C4018: '<': signed と unsigned の数値を比較しようとしました。 (ソース ファイルをコンパイルしています ..\SkeletonTwoColorBatch.cpp)
+d:\android\test\新しいフォルダー\testproj\3dairhockey\airhockey\cocos2d\cocos\editor-support\spine\skeletontwocolorbatch.cpp(274): warning C4018: '<': signed と unsigned の数値を比較しようとしました。 (ソース ファイルをコンパイルしています ..\SkeletonTwoColorBatch.cpp)
+  libSpine.vcxproj -> D:\Android\test\新しいフォルダー\TestProj\3DAirHockey\AirHockey\proj.win32\Debug.win32\libSpine.lib
