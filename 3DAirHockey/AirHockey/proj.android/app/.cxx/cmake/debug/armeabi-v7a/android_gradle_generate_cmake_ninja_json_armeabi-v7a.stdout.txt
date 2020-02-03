@@ -1,0 +1,17 @@
+-- using toolchain file:D:\Android\android-sdk\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+-- PROJECT_NAME:AirHockey
+-- PROJECT_SOURCE_DIR:D:/Android/test/3DAirHockey/AirHockey
+-- COCOS2DX_ROOT_PATH:D:/Android/test/3DAirHockey/AirHockey/cocos2d
+-- CMAKE_MODULE_PATH:D:/Android/test/3DAirHockey/AirHockey/cocos2d/cmake/Modules/
+-- PROJECT_BINARY_DIR:D:/Android/test/3DAirHockey/AirHockey/proj.android/app/.cxx/cmake/debug/armeabi-v7a
+-- ENGINE_BINARY_PATH:D:/Android/test/3DAirHockey/AirHockey/proj.android/app/.cxx/cmake/debug/armeabi-v7a/engine
+-- CMAKE_GENERATOR: Ninja
+-- CMAKE_BUILD_TYPE: Debug
+-- PHOTON_ROOT_PATH:D:/Android/test/3DAirHockey/AirHockey/vendor/AndroidNdkSdk
+-- CMAKE_BUILD_TYPE:Debug
+-- ANDROID_ABI:armeabi-v7a
+-- PHOTON_BUILD_TYPE:debug
+-- COMMON_PATH:D:/Android/test/3DAirHockey/AirHockey/vendor/AndroidNdkSdk/Common-cpp/lib/common-cpp-prebuilt/libcommon-cpp-static_debug_android_armeabi-v7a.a
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Android/test/3DAirHockey/AirHockey/proj.android/app/.cxx/cmake/debug/armeabi-v7a

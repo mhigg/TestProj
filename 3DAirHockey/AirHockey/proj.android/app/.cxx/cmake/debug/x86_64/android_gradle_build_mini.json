@@ -1,0 +1,259 @@
+{
+  "buildFiles": [
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\cocos\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\Box2D\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\chipmunk\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\freetype2\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\recast\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\bullet\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\jpeg\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\openssl\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\tiff\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\uv\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\webp\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\websockets\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\tinyxml2\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\xxhash\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\xxtea\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\clipper\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\edtaa3func\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\ConvertUTF\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\poly2tri\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\md5\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\curl\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\png\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\android-specific\\cpufeatures\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\android-specific\\pvmp3dec\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\android-specific\\tremolo\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\zlib\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\unzip\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\vendor\\AndroidNdkSdk\\CMakeLists.txt",
+    "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\cocos\\platform\\android\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "ext_tinyxml2-Debug-x86_64": {
+      "artifactName": "ext_tinyxml2",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_tinyxml2",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_tinyxml2.a"
+    },
+    "ext_clipper-Debug-x86_64": {
+      "artifactName": "ext_clipper",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_clipper",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_clipper.a"
+    },
+    "ext_webp-Debug-x86_64": {
+      "artifactName": "ext_webp",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\webp\\prebuilt\\android\\x86_64\\libwebp.a"
+    },
+    "MyGame-Debug-x86_64": {
+      "artifactName": "MyGame",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target MyGame",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libMyGame.so"
+    },
+    "ext_png-Debug-x86_64": {
+      "artifactName": "ext_png",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\png\\prebuilt\\android\\x86_64\\libpng.a"
+    },
+    "bulletcollision-Debug-x86_64": {
+      "artifactName": "bulletcollision",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\bullet\\prebuilt\\android\\x86_64\\libBulletCollision.a"
+    },
+    "ext_box2d-Debug-x86_64": {
+      "artifactName": "ext_box2d",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\Box2D\\prebuilt\\android\\x86_64\\libbox2d.a"
+    },
+    "bulletdynamics-Debug-x86_64": {
+      "artifactName": "bulletdynamics",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\bullet\\prebuilt\\android\\x86_64\\libBulletDynamics.a"
+    },
+    "minicl-Debug-x86_64": {
+      "artifactName": "minicl",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\bullet\\prebuilt\\android\\x86_64\\libMiniCL.a"
+    },
+    "external-Debug-x86_64": {
+      "artifactName": "external",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target external",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libexternal.a"
+    },
+    "bulletmultithreaded-Debug-x86_64": {
+      "artifactName": "bulletmultithreaded",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\bullet\\prebuilt\\android\\x86_64\\libBulletMultiThreaded.a"
+    },
+    "ext_freetype-Debug-x86_64": {
+      "artifactName": "ext_freetype",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\freetype2\\prebuilt\\android\\x86_64\\libfreetype.a"
+    },
+    "ext_uv-Debug-x86_64": {
+      "artifactName": "ext_uv",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\uv\\prebuilt\\android\\x86_64\\libuv_a.a"
+    },
+    "photon_common-Debug-x86_64": {
+      "artifactName": "photon_common",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\vendor\\AndroidNdkSdk\\Common-cpp\\lib\\common-cpp-prebuilt\\libcommon-cpp-static_debug_android_x86_64_libc++.a"
+    },
+    "ext_ssl-Debug-x86_64": {
+      "artifactName": "ext_ssl",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\openssl\\prebuilt\\android\\x86_64\\libssl.a"
+    },
+    "ext_websockets-Debug-x86_64": {
+      "artifactName": "ext_websockets",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\websockets\\prebuilt\\android\\x86_64\\libwebsockets.a"
+    },
+    "ext_cpufeatures-Debug-x86_64": {
+      "artifactName": "ext_cpufeatures",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_cpufeatures",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\engine\\external\\android-specific\\cpufeatures\\libext_cpufeatures.a"
+    },
+    "photon_loadbalancing-Debug-x86_64": {
+      "artifactName": "photon_loadbalancing",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target photon_loadbalancing",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libphoton_loadbalancing.so"
+    },
+    "ext_tremolo-Debug-x86_64": {
+      "artifactName": "ext_tremolo",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_tremolo",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_tremolo.a"
+    },
+    "ext_crypto-Debug-x86_64": {
+      "artifactName": "ext_crypto",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\openssl\\prebuilt\\android\\x86_64\\libcrypto.a"
+    },
+    "photon-Debug-x86_64": {
+      "artifactName": "photon",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\vendor\\AndroidNdkSdk\\Photon-cpp\\lib\\photon-cpp-prebuilt\\libphoton-cpp-static_debug_android_x86_64_libc++.a"
+    },
+    "cocos2d-Debug-x86_64": {
+      "artifactName": "cocos2d",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target cocos2d",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libcocos2d.a"
+    },
+    "ext_zlib-Debug-x86_64": {
+      "artifactName": "ext_zlib",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\zlib\\prebuilt\\android\\x86_64\\libz.a"
+    },
+    "ext_bullet-Debug-x86_64": {
+      "artifactName": "ext_bullet",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\bullet\\prebuilt\\android\\x86_64\\libLinearMath.a"
+    },
+    "ext_xxtea-Debug-x86_64": {
+      "artifactName": "ext_xxtea",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_xxtea",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_xxtea.a"
+    },
+    "ext_chipmunk-Debug-x86_64": {
+      "artifactName": "ext_chipmunk",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\chipmunk\\prebuilt\\android\\x86_64\\libchipmunk.a"
+    },
+    "ext_edtaa3func-Debug-x86_64": {
+      "artifactName": "ext_edtaa3func",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_edtaa3func",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_edtaa3func.a"
+    },
+    "ext_curl-Debug-x86_64": {
+      "artifactName": "ext_curl",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\curl\\prebuilt\\android\\x86_64\\libcurl.a"
+    },
+    "cpufeatures-Debug-x86_64": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target cpufeatures",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\libcpufeatures.a"
+    },
+    "ext_xxhash-Debug-x86_64": {
+      "artifactName": "ext_xxhash",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_xxhash",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_xxhash.a"
+    },
+    "ext_recast-Debug-x86_64": {
+      "artifactName": "ext_recast",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_recast",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_recast.a"
+    },
+    "ext_pvmp3dec-Debug-x86_64": {
+      "artifactName": "ext_pvmp3dec",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_pvmp3dec",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_pvmp3dec.a"
+    },
+    "ext_unzip-Debug-x86_64": {
+      "artifactName": "ext_unzip",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_unzip",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_unzip.a"
+    },
+    "ext_poly2tri-Debug-x86_64": {
+      "artifactName": "ext_poly2tri",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_poly2tri",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_poly2tri.a"
+    },
+    "cpp_android_spec-Debug-x86_64": {
+      "artifactName": "cpp_android_spec",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target cpp_android_spec",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\engine\\cocos\\platform\\libcpp_android_spec.a"
+    },
+    "ext_jpeg-Debug-x86_64": {
+      "artifactName": "ext_jpeg",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\jpeg\\prebuilt\\android\\x86_64\\libjpeg.a"
+    },
+    "ext_convertUTF-Debug-x86_64": {
+      "artifactName": "ext_convertUTF",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_convertUTF",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_convertUTF.a"
+    },
+    "ext_tiff-Debug-x86_64": {
+      "artifactName": "ext_tiff",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\tiff\\prebuilt\\android\\x86_64\\libtiff.a"
+    },
+    "linearmath-Debug-x86_64": {
+      "artifactName": "linearmath",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\cocos2d\\external\\bullet\\prebuilt\\android\\x86_64\\libLinearMath.a"
+    },
+    "ext_md5-Debug-x86_64": {
+      "artifactName": "ext_md5",
+      "buildCommand": "D:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64 --target ext_md5",
+      "abi": "x86_64",
+      "output": "D:\\Android\\test\\3DAirHockey\\AirHockey\\proj.android\\app\\.cxx\\cmake\\debug\\x86_64\\lib\\libext_md5.a"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+ninja: error: '../../../../../../cocos2d/external/Box2D/prebuilt/android/x86_64/libbox2d.a', needed by '../../../../build/intermediates/cmake/debug/obj/x86_64/libMyGame.so', missing and no known rule to make it

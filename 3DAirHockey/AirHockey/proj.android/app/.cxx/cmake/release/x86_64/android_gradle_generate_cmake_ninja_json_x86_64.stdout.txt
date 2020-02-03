@@ -1,0 +1,17 @@
+-- using toolchain file:D:\Android\android-sdk\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+-- PROJECT_NAME:AirHockey
+-- PROJECT_SOURCE_DIR:D:/Android/test/3DAirHockey/AirHockey
+-- COCOS2DX_ROOT_PATH:D:/Android/test/3DAirHockey/AirHockey/cocos2d
+-- CMAKE_MODULE_PATH:D:/Android/test/3DAirHockey/AirHockey/cocos2d/cmake/Modules/
+-- PROJECT_BINARY_DIR:D:/Android/test/3DAirHockey/AirHockey/proj.android/app/.cxx/cmake/release/x86_64
+-- ENGINE_BINARY_PATH:D:/Android/test/3DAirHockey/AirHockey/proj.android/app/.cxx/cmake/release/x86_64/engine
+-- CMAKE_GENERATOR: Ninja
+-- CMAKE_BUILD_TYPE: Release
+-- PHOTON_ROOT_PATH:D:/Android/test/3DAirHockey/AirHockey/vendor/AndroidNdkSdk
+-- CMAKE_BUILD_TYPE:Release
+-- ANDROID_ABI:x86_64
+-- PHOTON_BUILD_TYPE:release
+-- COMMON_PATH:D:/Android/test/3DAirHockey/AirHockey/vendor/AndroidNdkSdk/Common-cpp/lib/common-cpp-prebuilt/libcommon-cpp-static_release_android_x86_64.a
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Android/test/3DAirHockey/AirHockey/proj.android/app/.cxx/cmake/release/x86_64
